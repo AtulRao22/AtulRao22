@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](./assets/header.jpg)
+![Header](./assets/header.png)
 
 <h1>Hi 👋, I'm Atul Rao</h1>
 
